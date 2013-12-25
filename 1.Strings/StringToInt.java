@@ -1,5 +1,5 @@
 import java.util.*;
-/*problem: atoi(string to int)
+/*problem: PIE¡£atoi(string to int)
  * approach: traverse the string from left to right, horner's rule.
  * if it is not the rightmost character
  * */

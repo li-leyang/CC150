@@ -1,5 +1,5 @@
 import java.util.*;
-/*problem: reverse the string
+/*problem: PIE.reverse the string
  * method: general solution.
  * overview: pointer move backwards and forwards back and forth.
  * trick: In java, you can use split method of string and print the words in reverse order

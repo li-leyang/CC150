@@ -1,5 +1,5 @@
 import java.util.*;
-/*problem: given a string and remove string, find the resulting string removing 
+/*problem: PIE. given a string and remove string, find the resulting string removing 
  * specified characters
  * Using lookup array.
  * */
